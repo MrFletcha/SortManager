@@ -1,0 +1,1093 @@
+2020-12-13 23:16:47,913 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:16:52,324 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:17:03,375 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:17:05,708 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:17:05,716 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:17:05,716 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:17:05,716 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:17:05,739 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 18, 28, 101, 104, 129, 144, 178] and the type of sorting selected: BubbleSort
+2020-12-13 23:17:05,739 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:17:05,739 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:17:05,747 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 18, 28, 101, 104, 129, 144, 178] and the type of sorting selected: MergeSort
+2020-12-13 23:17:05,747 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:17:05,747 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:17:05,749 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 18, 28, 101, 104, 129, 144, 178] and the type of sorting selected: QuickSort
+2020-12-13 23:17:05,749 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:17:05,749 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:17:05,749 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 18, 28, 101, 104, 129, 144, 178] and the type of sorting selected: InsertionSort
+2020-12-13 23:17:05,749 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:17:05,749 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:17:05,749 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 18, 28, 101, 104, 129, 144, 178] and the type of sorting selected: SelectionSort
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,770 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,778 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] 11
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:17:05,780 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:18:07,789 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:18:13,609 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:18:16,774 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:18:17,809 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:18:17,825 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:18:17,825 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:18:17,825 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:18:17,847 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 53] and the type of sorting selected: BubbleSort
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:18:17,847 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 53] and the type of sorting selected: MergeSort
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:18:17,847 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 53] and the type of sorting selected: QuickSort
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:18:17,847 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 53] and the type of sorting selected: InsertionSort
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:18:17,847 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:18:17,862 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 53] and the type of sorting selected: SelectionSort
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] 48
+2020-12-13 23:18:17,862 DEBUG c.s.j.b.GrowingBinaryTree [main] 47
+2020-12-13 23:18:56,388 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:19:02,039 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:19:04,062 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:19:05,381 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:19:05,381 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:19:05,381 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:19:05,381 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:19:05,403 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 14, 35, 71, 74] and the type of sorting selected: BubbleSort
+2020-12-13 23:19:05,403 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:19:05,403 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:19:05,403 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 14, 35, 71, 74] and the type of sorting selected: MergeSort
+2020-12-13 23:19:05,403 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:19:05,403 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:19:05,419 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 14, 35, 71, 74] and the type of sorting selected: QuickSort
+2020-12-13 23:19:05,419 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:19:05,419 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:19:05,419 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 14, 35, 71, 74] and the type of sorting selected: InsertionSort
+2020-12-13 23:19:05,419 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:19:05,419 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:19:05,419 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 14, 35, 71, 74] and the type of sorting selected: SelectionSort
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,419 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] 30
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] 49
+2020-12-13 23:19:05,435 DEBUG c.s.j.b.GrowingBinaryTree [main] 34
+2020-12-13 23:19:39,957 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:19:43,297 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 8
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 23
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:19:43,313 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:20:27,224 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,296 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,304 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 1
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 1
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:20:27,307 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 1
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:20:27,348 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 1
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] 10
+2020-12-13 23:20:27,358 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 10
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 3
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 2
+2020-12-13 23:20:27,366 DEBUG c.s.j.b.GrowingBinaryTree [main] 1
+2020-12-13 23:20:46,854 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:20:46,939 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,939 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] 2
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:20:46,955 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:21:46,783 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:21:46,850 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,850 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] 2
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:21:46,866 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:22:02,740 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,811 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 29
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 48
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 29
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 48
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 8
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 48
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 29
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 24
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:22:06,827 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:23:37,186 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:46,008 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:23:57,844 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:23:58,432 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:24:00,138 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:24:00,771 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:24:02,384 DEBUG c.s.j.b.GrowingBinaryTree [main] 43
+2020-12-13 23:24:02,920 DEBUG c.s.j.b.GrowingBinaryTree [main] 47
+2020-12-13 23:25:04,398 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:25:04,398 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:25:04,413 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:25:04,413 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:25:04,413 DEBUG c.s.j.b.GrowingBinaryTree [main] 43
+2020-12-13 23:25:04,413 DEBUG c.s.j.b.GrowingBinaryTree [main] 47
+2020-12-13 23:25:04,413 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 8
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 47
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 43
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:25:04,417 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:25:16,273 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:25:49,106 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,293 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 11
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 15
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:25:52,309 DEBUG c.s.j.b.GrowingBinaryTree [main] 24
+2020-12-13 23:26:28,441 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:26:31,767 DEBUG c.s.j.b.GrowingBinaryTree [main] 36
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 36
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 6
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 36
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 26
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 21
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 11
+2020-12-13 23:26:31,783 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:26:54,425 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:01,049 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:27:13,072 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:27:13,574 DEBUG c.s.j.b.GrowingBinaryTree [main] 15
+2020-12-13 23:27:15,254 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:27:15,765 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:27:17,290 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:27:18,981 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:27:49,155 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:27:49,155 DEBUG c.s.j.b.GrowingBinaryTree [main] 15
+2020-12-13 23:27:49,163 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:27:49,163 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:27:49,163 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:27:49,163 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:27:49,163 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:27:55,180 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 10
+2020-12-13 23:27:57,682 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:28:13,384 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:28:19,559 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:28:24,315 DEBUG c.s.j.b.GrowingBinaryTree [main] 15
+2020-12-13 23:28:28,801 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:28:33,842 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:28:38,070 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:28:42,320 DEBUG c.s.j.b.GrowingBinaryTree [main] 2
+2020-12-13 23:28:46,657 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:28:54,937 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [39, 32, 16, 15, 14, 9, 5, 2, 0, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:29:24,992 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:28,975 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:29:55,730 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:29:57,953 DEBUG c.s.j.b.GrowingBinaryTree [main] 35
+2020-12-13 23:30:06,282 DEBUG c.s.j.b.GrowingBinaryTree [main] 27
+2020-12-13 23:30:07,268 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:30:09,863 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 35
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 27
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:31:45,296 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 8
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 41
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 35
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 27
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 11
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:31:45,312 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:31:58,973 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 23
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:32:03,775 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 23
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 10
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 10
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 37
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 23
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:03,790 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:03,806 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [45, 39, 37, 23, 19, 9, 9, 0, 0, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:32:23,234 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:32:38,292 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:32:44,800 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 7
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 7
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 45
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 36
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 19
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:32:44,816 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:33:52,013 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,905 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 31
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 9
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 39
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 32
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 31
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 23
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 8
+2020-12-13 23:33:55,921 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:33:55,952 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [39, 32, 31, 23, 16, 12, 9, 8, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:34:07,649 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:34:11,849 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 13
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 6
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 9
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 46
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 29
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 15
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 13
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 13
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:34:11,864 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:34:11,896 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [46, 38, 29, 15, 13, 13, 12, 9, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:38:38,458 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:38:44,014 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:40:00,901 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:41:43,475 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:45:09,943 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:45:12,189 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:45:27,222 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:45:31,071 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:45:31,071 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:45:31,071 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:45:31,071 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:45:31,103 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 7, 10, 12, 13, 18, 19, 25] and the type of sorting selected: BubbleSort
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:45:31,103 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 7, 10, 12, 13, 18, 19, 25] and the type of sorting selected: MergeSort
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:45:31,103 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 7, 10, 12, 13, 18, 19, 25] and the type of sorting selected: QuickSort
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:45:31,103 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 7, 10, 12, 13, 18, 19, 25] and the type of sorting selected: InsertionSort
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:45:31,103 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:45:31,118 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 7, 10, 12, 13, 18, 19, 25] and the type of sorting selected: SelectionSort
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:45:31,118 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:05,657 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 8
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 48
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 30
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 18
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 13
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 4
+2020-12-13 23:46:09,570 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:46:39,869 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,035 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 9
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 49
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 27
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 25
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 20
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 16
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 14
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:46:46,050 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:46:46,073 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [49, 27, 25, 20, 16, 14, 14, 9, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:47:08,836 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:47:11,711 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:47:16,112 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:47:17,264 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:47:17,264 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:47:17,264 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:47:17,264 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:47:17,295 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 0, 21, 23, 23, 31, 44, 47] and the type of sorting selected: BubbleSort
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:47:17,295 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 0, 21, 23, 23, 31, 44, 47] and the type of sorting selected: MergeSort
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:47:17,295 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 0, 21, 23, 23, 31, 44, 47] and the type of sorting selected: QuickSort
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:47:17,295 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 0, 21, 23, 23, 31, 44, 47] and the type of sorting selected: InsertionSort
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:47:17,295 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:47:17,311 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 0, 21, 23, 23, 31, 44, 47] and the type of sorting selected: SelectionSort
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:17,316 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 9, 12, 12, 24, 26, 31, 38] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 9
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 38
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 31
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 26
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 24
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 12
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 2
+2020-12-13 23:47:17,316 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:47:17,316 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [38, 31, 26, 24, 12, 12, 9, 2, 0] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:47:17,316 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:47:17,316 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:47:17,316 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:47:17,316 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 3, 8, 11, 22, 25, 34, 46] and the type of sorting selected: BubbleSort
+2020-12-13 23:47:17,316 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:47:17,316 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:47:17,316 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 3, 8, 11, 22, 25, 34, 46] and the type of sorting selected: MergeSort
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:47:17,332 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 3, 8, 11, 22, 25, 34, 46] and the type of sorting selected: QuickSort
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:47:17,332 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 3, 8, 11, 22, 25, 34, 46] and the type of sorting selected: InsertionSort
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:47:17,332 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:47:17,332 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 2, 3, 8, 11, 22, 25, 34, 46] and the type of sorting selected: SelectionSort
+2020-12-13 23:47:53,341 DEBUG c.s.j.u.PrintingToUser [main] Start menu printed for user
+2020-12-13 23:47:55,482 DEBUG c.s.j.u.PrintingToUser [main] Taking Value for maximum array value
+2020-12-13 23:47:58,293 DEBUG c.s.j.u.PrintingToUser [main] Value request for Array Length
+2020-12-13 23:47:59,667 DEBUG c.s.j.u.PrintingToUser [main] Unsorted array printed to show starting point of method.
+2020-12-13 23:47:59,667 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 0
+2020-12-13 23:47:59,667 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 1
+2020-12-13 23:47:59,667 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type BubbleSort from the sort factory
+2020-12-13 23:47:59,698 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 4, 7, 23, 27, 29, 44, 49] and the type of sorting selected: BubbleSort
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 2
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type MergeSort from the sort factory
+2020-12-13 23:47:59,705 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 4, 7, 23, 27, 29, 44, 49] and the type of sorting selected: MergeSort
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 3
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type QuickSort from the sort factory
+2020-12-13 23:47:59,705 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 4, 7, 23, 27, 29, 44, 49] and the type of sorting selected: QuickSort
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 4
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type InsertionSort from the sort factory
+2020-12-13 23:47:59,705 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 4, 7, 23, 27, 29, 44, 49] and the type of sorting selected: InsertionSort
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting new Object from the sort factory with Index of: 5
+2020-12-13 23:47:59,705 DEBUG c.s.j.s.SortFactory [main] Getting a new Object of type SelectionSort from the sort factory
+2020-12-13 23:47:59,705 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 4, 7, 23, 27, 29, 44, 49] and the type of sorting selected: SelectionSort
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Tree created
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Elements Added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Node being added
+2020-12-13 23:47:59,720 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [0, 5, 5, 9, 20, 40, 42, 49, 49] and the type of sorting selected: BinaryTreeSort Asc
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] Length of array is: 9
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 49
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 49
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 42
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 40
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 20
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 9
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 5
+2020-12-13 23:47:59,720 DEBUG c.s.j.b.GrowingBinaryTree [main] 0
+2020-12-13 23:47:59,720 DEBUG c.s.j.u.PrintingToUser [main] Results printed with input values of a sorted user array: [49, 49, 42, 40, 20, 9, 5, 5, 0] and the type of sorting selected: BinaryTreeSort Asc
